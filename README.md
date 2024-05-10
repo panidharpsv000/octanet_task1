@@ -5,7 +5,6 @@
 <head>
     <meta charset="UTF-8">
     <title>Landing Page</title>
-    <link rel="stylesheet" href="landing_page.css">
     <script src="https://kit.fontawesome.com/cc01bf3621.js" crossorigin="anonymous"></script>
     <link href="https://cdn.jsdelivr.net/npm/remixicon@4.2.0/fonts/remixicon.css" rel="stylesheet"/>
     <style>
