@@ -1,7 +1,5 @@
-# octanet_task1
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <title>Landing Page</title>
@@ -220,7 +218,8 @@
             had 500 episodes, which originally aired in Japan
             on TV Tokyo from 2007 until 2017. Naruto: Shippūden can be legally accessed through sites such as Hulu (for
             United States users only) and Crunchyroll
-            (for those living outside the US).</p>
+            (for those living outside the US).
+        </p>
         <div class="follows">
             <h2>Follow Us:</h2>
             <div class="icons x">
