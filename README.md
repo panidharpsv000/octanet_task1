@@ -8,7 +8,181 @@
     <link rel="stylesheet" href="landing_page.css">
     <script src="https://kit.fontawesome.com/cc01bf3621.js" crossorigin="anonymous"></script>
     <link href="https://cdn.jsdelivr.net/npm/remixicon@4.2.0/fonts/remixicon.css" rel="stylesheet"/>
-   
+    <style>
+        * {
+    padding:0px;
+    margin:0px;
+}
+body {
+    font-family: 'Roboto','sans-serif';
+}
+.main_one {
+    background-color:whitesmoke;
+    min-height: 40rem;
+    border-radius:20px;
+    position:relative;
+}
+.img1 {
+    width:160px;
+    height:90px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+.links {
+    padding-top:1rem;
+
+}
+.links a,.links i {
+    padding-left:17px;
+}
+ .links i {
+  padding-right:1rem;
+ }
+.right a{
+    padding-right: 3rem;
+}
+.left {
+    float:left;
+}
+.right{
+    float:right;
+}
+.links a {
+    text-decoration:none;
+    color:black;
+}
+.links a:hover {
+    text-decoration:underline;
+    color:blue;
+}
+
+.img2 {
+    position:absolute;
+    bottom:0%;
+    left:21%;
+    height:30rem;
+}
+.txt1 {
+    position:absolute;
+    top:34%;
+    left:60%;
+    font-weight: 400;
+    font-size:20px;
+}
+
+.txt1 i {
+    display:inline;
+}
+.txt2 {
+    position:absolute;
+    top:45%;
+    left:60%;
+    font-weight:900;
+    font-size: 40px;
+}
+.buttons {
+    position:absolute;
+    left:60%;
+    top:70%;
+}
+.buttons button {
+   padding:5px;
+   width:90px;
+   font-weight: 400;
+   font-size:15px;
+   margin-left:8px;
+}
+
+.buttons .one {
+    background-color:#000;
+    color:white;
+    
+}
+.buttons .two {
+    background-color:#fff;
+    width:105px;
+}
+
+button:hover {
+    cursor:pointer;
+}
+.fa-sharp {
+    float:right;
+}
+.fa-sharp  {
+    padding-left:17px;
+    padding-top:13px;
+}
+
+.more {
+    margin-top:20px;
+}
+
+.more h2 {
+    font-size:40px;
+    margin-bottom:20px;
+}
+.more img {
+    width:27%;
+    float:right;
+}
+.more p {
+    font-size:26px;
+    line-height:29px;
+    word-spacing:11px;
+}
+
+.follows {
+    clear:both;
+    background-image:url('https://static.vecteezy.com/system/resources/previews/000/518/751/original/vector-black-triangular-abstract-texture-low-light-background.jpg');
+    background-size: cover;
+    margin:0px;
+    padding:0px;
+    margin-top:20px;
+}
+
+.follows h2{
+    color:#fff;
+    text-align:center;
+    font-size:46px;
+}
+
+.icons {
+    height:150px;
+    width:150px;
+    background-color: #9c9c9d;
+    margin:10px;
+    padding:20px;
+    text-align:center;
+    overflow:hidden;
+    display:inline-flex;
+}
+.icons a {
+   display:grid;
+}
+
+.icons .fa {
+    font-size:108px;
+    color:#fff;
+    padding-left:20%;
+}
+
+.x {
+    margin-left:21%;
+}
+
+@media (max-width:300px) {
+    .links a {
+        margin:50px;
+        padding:50px;
+    }
+    .links i {
+        margin:40px;
+        padding:50px;
+    }
+}
+    </style>
 </head>
 
 <body>
