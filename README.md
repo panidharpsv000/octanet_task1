@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
     <title>Landing Page</title>
     <script src="https://kit.fontawesome.com/cc01bf3621.js" crossorigin="anonymous"></script>
     <link href="https://cdn.jsdelivr.net/npm/remixicon@4.2.0/fonts/remixicon.css" rel="stylesheet"/>
@@ -156,19 +155,8 @@ button:hover {
 .x {
     margin-left:21%;
 }
-@media (max-width:300px) {
-    .links a {
-        margin:50px;
-        padding:50px;
-    }
-    .links i {
-        margin:40px;
-        padding:50px;
-    }
-}
     </style>
 </head>
-
 <body>
     <div class="title">
         <img src="https://www.pngarts.com/files/3/Naruto-Shippuden-Logo-PNG-Transparent-Image.png"
