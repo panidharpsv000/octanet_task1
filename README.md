@@ -1,7 +1,6 @@
 # octanet_task1
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <title>Landing Page</title>
@@ -11,10 +10,10 @@
         * {
     padding:0px;
     margin:0px;
-}
-body {
-    font-family: 'Roboto','sans-serif';
-}
+      }
+     body {
+       font-family: 'Roboto','sans-serif';
+     }
 .main_one {
     background-color:whitesmoke;
     min-height: 40rem;
@@ -30,8 +29,7 @@ body {
 }
 .links {
     padding-top:1rem;
-
-}
+ }
 .links a,.links i {
     padding-left:17px;
 }
@@ -55,7 +53,6 @@ body {
     text-decoration:underline;
     color:blue;
 }
-
 .img2 {
     position:absolute;
     bottom:0%;
@@ -69,7 +66,6 @@ body {
     font-weight: 400;
     font-size:20px;
 }
-
 .txt1 i {
     display:inline;
 }
@@ -92,17 +88,14 @@ body {
    font-size:15px;
    margin-left:8px;
 }
-
 .buttons .one {
     background-color:#000;
-    color:white;
-    
+    color:white;    
 }
 .buttons .two {
     background-color:#fff;
     width:105px;
 }
-
 button:hover {
     cursor:pointer;
 }
@@ -113,11 +106,9 @@ button:hover {
     padding-left:17px;
     padding-top:13px;
 }
-
 .more {
     margin-top:20px;
 }
-
 .more h2 {
     font-size:40px;
     margin-bottom:20px;
@@ -131,7 +122,6 @@ button:hover {
     line-height:29px;
     word-spacing:11px;
 }
-
 .follows {
     clear:both;
     background-image:url('https://static.vecteezy.com/system/resources/previews/000/518/751/original/vector-black-triangular-abstract-texture-low-light-background.jpg');
@@ -140,13 +130,11 @@ button:hover {
     padding:0px;
     margin-top:20px;
 }
-
 .follows h2{
     color:#fff;
     text-align:center;
     font-size:46px;
 }
-
 .icons {
     height:150px;
     width:150px;
@@ -160,17 +148,14 @@ button:hover {
 .icons a {
    display:grid;
 }
-
 .icons .fa {
     font-size:108px;
     color:#fff;
     padding-left:20%;
 }
-
 .x {
     margin-left:21%;
 }
-
 @media (max-width:300px) {
     .links a {
         margin:50px;
